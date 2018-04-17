@@ -11,7 +11,6 @@ import NewHaircut from '@/components/Haircuts/NewHaircut'
 import NewBarbershop from '@/components/Barbershops/RegisterBarbershop'
 import Barbershops from '@/components/Barbershops/Barbershops'
 
-
 Vue.use(Router)
 
 export default new Router({
